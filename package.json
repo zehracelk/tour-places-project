@@ -1,4 +1,5 @@
-{ "homepage":"http://zehracelk.github.io/tour-places-project",
+{
+  "homepage": "http://zehracelk.github.io/tour-places-project",
   "name": "sass-tourplaces",
   "version": "0.1.0",
   "private": true,
